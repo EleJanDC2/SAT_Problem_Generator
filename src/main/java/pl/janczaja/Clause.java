@@ -11,14 +11,6 @@ public class Clause implements Iterable<LogicToken>{
         this.var.addAll(varIn);
     }
 
-//    public void addAt(int index, LogicToken token){
-//        var.add(index,token);
-//    }
-
-    //
-
-
-    //
 
     @Override
     public String toString(){

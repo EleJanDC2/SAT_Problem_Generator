@@ -18,6 +18,7 @@ public class Main {
 
         problemGenerator.test1();
         problemGenerator.test2();
+        problemGenerator.test3();
 
         System.out.println("Stop");
     }
